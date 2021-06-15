@@ -1,0 +1,690 @@
+.header {
+    background-color: #CE0505;
+    height: 57px;
+    padding-top: 10px;
+}
+
+.login {
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    padding-right: 80px;
+    padding-top: -6px;
+    margin: -65px;
+    font-family: Roboto, Helvetica, sans-serif;
+}
+
+.account {
+    display: inline-block;
+    width: 125px;
+    height: 20px;
+    margin: 2px 80px 0px 5px;
+    padding: 2px 2px 2px 10px;
+    border-radius: 3px;
+    border: solid 1px #ffffff;
+    color: white;
+    padding-right: 50px;
+}
+
+.header-logo {
+    background-color: white;
+    width: 50px;
+    height: 48px;
+    color: #EB2929;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 35px;
+    margin-left: 8.10%;
+    display: inline-block;
+    font-family: Roboto, Helvetica, sans-serif;
+    padding-top: 1.5px;
+}
+
+.Breakfast-Places-in-Mumbai {
+    width: 512px;
+    height: 51px;
+    margin: 37px 25px 27px 113px;
+    font-family: Roboto, Helvetica, sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+
+.filters {
+    display: inline-block;
+    width: 215px;
+    height: 682px;
+    margin: 27px 45px 8px 113px;
+    box-shadow: 0 1px 4px 0 grey;
+}
+
+.filter-heading {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #263B69;
+    padding-left: 20px;
+    padding-top: 15px;
+    font-family: Roboto, Helvetica, sans-serif;
+}
+
+.Select-location {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #263B69;
+    padding-left: 20px;
+    padding-top: 10px;
+    font-family: Roboto, Helvetica, sans-serif;
+}
+
+.select-location-Drop {
+    display: inline-block;
+    width: 165px;
+    height: 29px;
+    margin: 19px 0 0px 19px;
+    padding: 6px 16.7px 7px 15px;
+    border-radius: 3px;
+    border: solid 1px #8c96ab;
+}
+
+.Select-Location-Text {
+    width: 165px;
+    height: 29px;
+    margin: 19px 0 0px 19px;
+    font-family: Roboto, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #516186;
+}
+
+.Cuisine {
+    width: 51px;
+    height: 20px;
+    padding-left: 20px;
+    padding-top: 15px;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #516186;
+    font-family: Roboto, Helvetica, sans-serif;
+    margin-bottom: 7px;
+}
+
+.checkbox1 {
+    width: 20px;
+    height: 16px;
+}
+
+.North-Indian {
+    font-family: Roboto, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+    margin-left: 16px;
+}
+
+.checkbox2 {
+    width: 20px;
+    height: 16px;
+}
+
+.South-Indian {
+    font-family: Roboto, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+    margin-left: 16px;
+}
+
+.checkbox3 {
+    width: 20px;
+    height: 16px;
+}
+
+.Chinese {
+    font-family: Roboto, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+    margin-left: 16px;
+}
+
+.checkbox4 {
+    width: 20px;
+    height: 16px;
+}
+
+.Fast-Food {
+    font-family: Roboto, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+    margin-left: 16px;
+}
+
+.checkbox5 {
+    width: 20px;
+    height: 16px;
+}
+
+.Street-Food {
+    font-family: Roboto, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+    margin-left: 16px;
+}
+
+.Cost-of-two {
+    font-family: Roboto, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    padding-left: 20px;
+    padding-top: 10px;
+    width: 89px;
+    height: 28px;
+    margin-top: 15px;
+}
+
+.radio1 {
+    width: 16px;
+    height: 15px
+}
+
+.Less-than-500 {
+    font-family: Roboto, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+    margin-left: 16px;
+}
+
+.radio2 {
+    width: 16px;
+    height: 15px
+}
+
+.A500-1000 {
+    font-family: Roboto, Helvetica, sans-serif font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+    margin-left: 16px;
+}
+
+.radio3 {
+    width: 16px;
+    height: 15px
+}
+
+.A1000-1500 {
+    font-family: Roboto, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+    margin-left: 16px;
+}
+
+.radio4 {
+    width: 16px;
+    height: 15px
+}
+
+.A1500-2000 {
+    font-family: Roboto, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+    margin-left: 16px;
+}
+
+.radio5 {
+    width: 16px;
+    height: 15px
+}
+
+.A2000plus {
+    font-family: Roboto, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+    margin-left: 16px;
+}
+
+.sort {
+    font-family: Roboto, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    padding-left: 20px;
+    padding-top: 10px;
+    width: 89px;
+    height: 28px;
+    margin-top: 15px;
+    margin-bottom: inherit;
+}
+
+.radioa {
+    width: 16px;
+    height: 15px
+}
+
+.low-high {
+    font-family: Roboto, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+    margin-left: 16px;
+}
+
+.radiob {
+    width: 16px;
+    height: 15px
+}
+
+.high-low {
+    font-family: Roboto, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+    margin-left: 16px;
+}
+
+
+/* The big chill cakery*/
+
+.big-chill {
+    display: inline-block;
+    width: 800px;
+    height: 283px;
+    margin: -689px 14px 25px 385px;
+    box-shadow: 0 1px 4px 0 grey;
+}
+
+.imagechill {
+    width: 118px;
+    height: 120px;
+    margin: 20px 41px 25px 34px;
+    border-radius: 23px;
+    background-color: #ea6060;
+}
+
+.main-heading {
+    width: 298px;
+    height: 43px;
+    margin: -151px 267.4px 5px 41px;
+    font-family: Roboto, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    padding-left: 158px;
+}
+
+.fort {
+    width: 298px;
+    height: 43px;
+    margin: -5px 267.4px 5px 41px;
+    padding-left: 162px;
+    font-family: Roboto, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+
+.sub-heading2 {
+    width: 298px;
+    height: 43px;
+    margin: -13px 267.4px 5px 41px;
+    padding-left: 162px;
+    font-family: Roboto, Helvetica, sans-serif;
+    color: grey;
+}
+
+.path {
+    width: 726.4px;
+    height: 0;
+    margin: 31px 35px 0;
+    border: solid 1px #dedfe5;
+}
+
+.Cuisines {
+    padding: 1px;
+    margin: 20px 41px 25px 34px;
+    font: bold;
+    font-family: Roboto, Helvetica, sans-serif;
+    color: grey;
+}
+
+.Cost-of-two1 {
+    padding: 1px;
+    margin: 20px 41px 25px 34px;
+    font-family: Roboto, Helvetica, sans-serif;
+    color: grey;
+}
+
+.bakery1 {
+    width: 307px;
+    height: 46px;
+    margin: -86px 267.4px 5px 41px;
+    padding-left: 162px;
+    font-family: Roboto, Helvetica, sans-serif;
+    color: #192f60;
+    font-weight: normal;
+    Font size: 16px Font weight: 400
+}
+
+.seven-hundred {
+    width: 307px;
+    height: 46px;
+    margin: -8px 267.4px 5px 40px;
+    padding-left: 162px;
+    font-family: Roboto, Helvetica, sans-serif;
+    color: #192f60;
+}
+
+
+/*cake-shop*/
+
+.cake-shop {
+    display: inline-block;
+    width: 800px;
+    height: 271px;
+    margin: -391px 14px 25px 385px;
+    box-shadow: 0 1px 4px 0 grey;
+}
+
+.imagecake {
+    width: 118px;
+    height: 120px;
+    margin: 20px 41px 25px 34px;
+    border-radius: 23px;
+    background-color: #ea6060;
+}
+
+.main-heading2 {
+    width: 298px;
+    height: 43px;
+    margin: -151px 267.4px 5px 41px;
+    font-family: Roboto, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    padding-left: 158px;
+}
+
+.fort2 {
+    width: 298px;
+    height: 43px;
+    margin: -5px 267.4px 5px 41px;
+    padding-left: 162px;
+    font-family: ;
+    font-size: 16px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    font-family: Roboto, Helvetica, sans-serif;
+}
+
+.sub-heading3 {
+    width: 298px;
+    height: 43px;
+    margin: -13px 267.4px 5px 41px;
+    padding-left: 162px;
+    font-family: Roboto, Helvetica, sans-serif;
+    color: grey;
+}
+
+.path2 {
+    width: 726.4px;
+    height: 0;
+    margin: 31px 35px 0;
+    border: solid 1px #dedfe5;
+}
+
+.Cuisines2 {
+    padding: 1px;
+    margin: 20px 41px 25px 34px;
+    font: bold;
+    font-family: Roboto, Helvetica, sans-serif;
+    color: grey;
+}
+
+.Cost-of-two2 {
+    padding: 1px;
+    margin: 20px 41px 25px 34px;
+    font-family: Roboto, Helvetica, sans-serif;
+    color: grey;
+}
+
+.bakery2 {
+    width: 307px;
+    height: 46px;
+    margin: -86px 267.4px 5px 41px;
+    padding-left: 162px;
+    font-family: Roboto, Helvetica, sans-serif;
+    color: #192f60;
+}
+
+.seven-hundred2 {
+    width: 307px;
+    height: 46px;
+    margin: -8px 267.4px 5px 40px;
+    padding-left: 162px;
+    font-family: Roboto, Helvetica, sans-serif;
+    color: #192f60;
+}
+
+.button1 {
+    width: 36px;
+    height: 36px;
+    margin: -83px 13px 0 590px;
+    padding: 10.2px 13.5px 9.5px 14.3px;
+    opacity: 0.4;
+    border-radius: 7px;
+    background-color: #ffffff;
+}
+
+.button-path {
+    font-family: Roboto, Helvetica, sans-serif;
+    font-weight: 400;
+}
+
+.button2 {
+    padding: 10.2px 13.5px 9.5px 14.3px;
+    opacity: 0.4;
+    border-radius: 7px;
+    background-color: #ffffff;
+    width: 36px;
+    height: 36px;
+    margin: -83px 20px 12px 636px;
+}
+
+.one {
+    font-family: Roboto, Helvetica, sans-serif;
+}
+
+.button3 {
+    padding: 10.2px 13.5px 9.5px 14.3px;
+    opacity: 0.4;
+    border-radius: 7px;
+    background-color: #ffffff;
+    width: 36px;
+    height: 36px;
+    margin: -83px 20px 12px 682px;
+}
+
+.two {
+    font-family: Roboto, Helvetica, sans-serif;
+}
+
+.button4 {
+    padding: 10.2px 13.5px 9.5px 14.3px;
+    opacity: 0.4;
+    border-radius: 7px;
+    background-color: #ffffff;
+    width: 36px;
+    height: 36px;
+    margin: -83px 20px 12px 728px;
+}
+
+.three {
+    font-family: Roboto, Helvetica, sans-serif;
+}
+
+.button5 {
+    padding: 10.2px 13.5px 9.5px 14.3px;
+    opacity: 0.4;
+    border-radius: 7px;
+    background-color: #ffffff;
+    width: 36px;
+    height: 36px;
+    margin: -83px 20px 12px 774px;
+}
+
+.four {
+    font-family: Roboto, Helvetica, sans-serif;
+}
+
+.button6 {
+    padding: 10.2px 13.5px 9.5px 14.3px;
+    opacity: 0.4;
+    border-radius: 7px;
+    background-color: #ffffff;
+    width: 36px;
+    height: 36px;
+    margin: -83px 20px 12px 820px;
+}
+
+.five {
+    font-family: Roboto, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.button7 {
+    padding: 10.2px 13.5px 9.5px 14.3px;
+    opacity: 0.4;
+    border-radius: 7px;
+    background-color: #ffffff;
+    width: 36px;
+    height: 36px;
+    margin: -83px 20px 12px 866px;
+}
